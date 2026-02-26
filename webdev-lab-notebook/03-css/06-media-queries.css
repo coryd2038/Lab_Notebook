@@ -15,7 +15,7 @@ nav ul {
 
 nav ul li {
   display: inline-block;
-  width: 200px;
+  width: 120px;
   /* width: 120px; */
   /* margin-right: 2em;
   padding: 0.5em 1em; */
@@ -27,8 +27,8 @@ nav ul li {
 
 nav ul li a {
   display: block;
-  width: 100%;
-  margin: 1em;
+  /* width: 100%; */
+  /* margin: 1em; */
   padding: 1em;
   text-decoration: none;
   color: var(--white);
